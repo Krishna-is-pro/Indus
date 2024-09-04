@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EA4B7D58-F46B-4E28-9813-4EB645B93341"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCAC57A3-7649-417A-8844-A322C6EB81E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StackViewDemo/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "parseJsonUsingAlamofire()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FCAC57A3-7649-417A-8844-A322C6EB81E7 - 5f6b6a0dea9a8f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;StackViewDemo.ApiResponnse, Alamofire.AFError&gt;) -&gt; () in StackViewDemo.SecondViewController.parseJsonUsingAlamofire() -&gt; ()"
+                  moduleName = "StackViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indus/Desktop/InternshipProjects/StackViewDemo/StackViewDemo/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "566">
+               </Location>
+               <Location
+                  uuid = "FCAC57A3-7649-417A-8844-A322C6EB81E7 - 5f6b6a0dea9a8f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;StackViewDemo.ApiResponnse, Alamofire.AFError&gt;) -&gt; () in StackViewDemo.SecondViewController.parseJsonUsingAlamofire() -&gt; ()"
+                  moduleName = "StackViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indus/Desktop/InternshipProjects/StackViewDemo/StackViewDemo/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "559">
+               </Location>
+               <Location
+                  uuid = "FCAC57A3-7649-417A-8844-A322C6EB81E7 - 61deb3b2ab13836"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;StackViewDemo.ApiResponnses, Alamofire.AFError&gt;) -&gt; () in StackViewDemo.SecondViewController.parseJsonUsingAlamofire() -&gt; ()"
+                  moduleName = "StackViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indus/Desktop/InternshipProjects/StackViewDemo/StackViewDemo/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "566">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10D566A7-3390-4112-953A-1D4306D37928"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StackViewDemo/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "parseJsonUsingAlamofire()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "10D566A7-3390-4112-953A-1D4306D37928 - 5f6b6a0dea9a8d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;StackViewDemo.ApiResponnse, Alamofire.AFError&gt;) -&gt; () in StackViewDemo.SecondViewController.parseJsonUsingAlamofire() -&gt; ()"
+                  moduleName = "StackViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indus/Desktop/InternshipProjects/StackViewDemo/StackViewDemo/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "494">
+               </Location>
+               <Location
+                  uuid = "10D566A7-3390-4112-953A-1D4306D37928 - 5f6b6a0dea9a8d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;StackViewDemo.ApiResponnse, Alamofire.AFError&gt;) -&gt; () in StackViewDemo.SecondViewController.parseJsonUsingAlamofire() -&gt; ()"
+                  moduleName = "StackViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indus/Desktop/InternshipProjects/StackViewDemo/StackViewDemo/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "487">
+               </Location>
+               <Location
+                  uuid = "10D566A7-3390-4112-953A-1D4306D37928 - 61deb3b2ab13819"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;StackViewDemo.ApiResponnses, Alamofire.AFError&gt;) -&gt; () in StackViewDemo.SecondViewController.parseJsonUsingAlamofire() -&gt; ()"
+                  moduleName = "StackViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indus/Desktop/InternshipProjects/StackViewDemo/StackViewDemo/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "494">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B99C99CE-DA62-49A0-8A04-9118C1F48920"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StackViewDemo/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "parseJsonUsingAlamofire()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B99C99CE-DA62-49A0-8A04-9118C1F48920 - 5f6b6a0dea9a8b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;StackViewDemo.ApiResponnse, Alamofire.AFError&gt;) -&gt; () in StackViewDemo.SecondViewController.parseJsonUsingAlamofire() -&gt; ()"
+                  moduleName = "StackViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indus/Desktop/InternshipProjects/StackViewDemo/StackViewDemo/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "441">
+               </Location>
+               <Location
+                  uuid = "B99C99CE-DA62-49A0-8A04-9118C1F48920 - 5f6b6a0dea9a8b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;StackViewDemo.ApiResponnse, Alamofire.AFError&gt;) -&gt; () in StackViewDemo.SecondViewController.parseJsonUsingAlamofire() -&gt; ()"
+                  moduleName = "StackViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indus/Desktop/InternshipProjects/StackViewDemo/StackViewDemo/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "434">
+               </Location>
+               <Location
+                  uuid = "B99C99CE-DA62-49A0-8A04-9118C1F48920 - 61deb3b2ab13878"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;StackViewDemo.ApiResponnses, Alamofire.AFError&gt;) -&gt; () in StackViewDemo.SecondViewController.parseJsonUsingAlamofire() -&gt; ()"
+                  moduleName = "StackViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indus/Desktop/InternshipProjects/StackViewDemo/StackViewDemo/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "441">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
